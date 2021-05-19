@@ -1,3 +1,10 @@
 body {
   background-color: rgb(35, 35, 189);
 }
+.h {
+  color: aqua;
+  font-size: 38px;
+}
+.p {
+  color: brown;
+}
