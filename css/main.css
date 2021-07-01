@@ -1,10 +1,10 @@
 body {
-  background-color: rgb(35, 35, 189);
+  background-color: rgb(7, 7, 109);
 }
-.h {
+h2 {
   color: aqua;
   font-size: 38px;
 }
-.p {
+p {
   color: brown;
 }
