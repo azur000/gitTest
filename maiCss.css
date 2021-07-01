@@ -1,0 +1,24 @@
+.container{
+   width: 1200px;
+   margin: 0 auto;
+   padding: 30px 16px;
+}
+.goods-list{
+ width: 30%;
+   border: 2px solid rgb(0, 255, 0);
+}
+.goods-item{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   border-bottom-color: #d41010;
+    border-bottom-style: dashed;
+}
+.cart-button{
+   margin: 16px;
+   border: 1px solid #ff0000;
+   border-radius: 2px;
+   width: 88px;
+   height: 22px;
+   cursor: pointer;
+}
